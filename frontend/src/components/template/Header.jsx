@@ -4,7 +4,7 @@ import React from 'react'
 export default props =>
     <header className="header d-none d-sm-flex flex-column">
         <h1 className="mt-3">
-            <i className={`fa fa-${props.icon}`}></i> Processos
+            <i className={`fa fa-book`}></i> Processos
         </h1>
         <p className="lead text-muted">Cadastro Processual.</p>
     </header>

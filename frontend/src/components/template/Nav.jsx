@@ -10,7 +10,7 @@ export default props =>
                 <i className="fa fa-home"></i> Início
             </Link>
             <Link to="/users">
-                <i className="fa fa-users"></i> Processos
+                <i className="fa fa-book"></i> Processos
             </Link>
         </nav>
     </aside>

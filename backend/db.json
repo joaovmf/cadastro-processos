@@ -3,52 +3,79 @@
     {
       "name": "Daniel Augusto de Souza Silva",
       "process": "0007052-98.2020.8.17.0001",
-      "id": 1
+      "id": 1,
+      "vara": "19ª Vara Criminal do Recife",
+      "tipo": "Físico"
     },
     {
       "name": "Jesse Miguel dos Reis Junior",
       "process": "0007052-98.2020.8.17.0001",
-      "id": 2
+      "id": 2,
+      "vara": "19ª Vara Criminal do Recife",
+      "tipo": "Físico"
     },
     {
       "name": "Romeu Andrade Valença",
       "process": "0000339-50.2020.8.17.0990",
-      "id": 3
+      "id": 3,
+      "vara": "1ª Vara Criminal de Olinda",
+      "tipo": "Físico"
     },
     {
       "name": " José Macleiton dos Santos",
       "process": "0008397-02.2020.8.17.0001",
-      "id": 4
+      "id": 4,
+      "vara": "3ª Vara Criminal do Recife",
+      "tipo": "Físico"
     },
     {
       "name": " Elom Sobral Bastos",
       "process": "0008952-24.2017.8.17.0001",
-      "id": 5
+      "id": 5,
+      "vara": "5ª Vara Criminal do Recife",
+      "tipo": "Físico"
     },
     {
       "name": "Felipe Simões Alexandre",
       "process": "0007573-18.2019.8.17.8201",
-      "id": 6
+      "id": 6,
+      "vara": "6º Juizado Especial Cível do Recife",
+      "tipo": "Eletrônico"
     },
     {
       "name": "Haroldo de Oliveira Chaves",
       "process": "0011137-84.2020.8.17.2990",
-      "id": 7
+      "id": 7,
+      "vara": "1ª Vara Cível da Comarca de Olinda",
+      "tipo": "Eletrônico"
     },
     {
       "name": "Maria Elizabete de Lima",
       "process": "0058477-18.2019.8.17.2001",
-      "id": 8
+      "id": 8,
+      "vara": " 5ª Vara Cível da Comarca do Recife",
+      "tipo": "Eletrônico"
     },
     {
       "name": " Ana Augusta de Saboia",
       "process": "0020231-50.2019.8.17.2001",
-      "id": 9
+      "id": 9,
+      "vara": " 5ª Vara de Sucessões da Comarca do Recife",
+      "tipo": "Eletrônico"
     },
     {
       "name": "Maria Izabella Lucena",
       "process": "0000063-09.2015.8.17.2990",
-      "id": 10
+      "id": 10,
+      "vara": "Vara de Sucessões de Olinda",
+      "tipo": "Eletrônico"
+    },
+    {
+      "name": "Luan Otavil Dias Feijó",
+      "process": "0001785-61.2017.8.17.2100",
+      "vara": "3ª Vara Cível da Comarca de Abreu e Lima",
+      "tipo": " Eletrônico ",
+      "id": 11
     }
   ]
 }

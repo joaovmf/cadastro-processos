@@ -10,7 +10,7 @@ const headerProps = {
 
 const baseUrl = 'http://localhost:3001/users'
 const initialState = {
-    user: { name: '', process: '' },
+    user: { name: '', process: '', vara:'', tipo:''},
     list: []
 }
 
@@ -76,6 +76,26 @@ export default class UserCrud extends Component {
                                 placeholder="Digite o numero do processo..." />
                         </div>
                     </div>
+                    <div className="col-12 col-md-6">
+                        <div className="form-group">
+                            <label>Vara</label>
+                            <input type="text" className="form-control"
+                                name="vara"
+                                value={this.state.user.vara}
+                                onChange={e => this.updateField(e)}
+                                placeholder="Digite a vara..." />
+                        </div>
+                    </div>
+                    <div className="col-12 col-md-6">
+                        <div className="form-group">
+                            <label>Tipo</label>
+                            <input type="text" className="form-control"
+                                name="tipo"
+                                value={this.state.user.tipo}
+                                onChange={e => this.updateField(e)}
+                                placeholder="Eletrônico ou Físico..." />
+                        </div>
+                    </div>
                 </div>
 
                 <hr />
@@ -115,6 +135,8 @@ export default class UserCrud extends Component {
                         <th>ID</th>
                         <th>Nome</th>
                         <th>Nº</th>
+                        <th>Vara</th>
+                        <th>Tipo</th>
                         <th>Ações</th>
                     </tr>
                 </thead>
@@ -132,6 +154,8 @@ export default class UserCrud extends Component {
                     <td>{user.id}</td>
                     <td>{user.name}</td>
                     <td>{user.process}</td>
+                    <td>{user.vara}</td>
+                    <td>{user.tipo}</td>
                     <td>
                         <button className="btn btn-warning"
                             onClick={() => this.load(user)}>
