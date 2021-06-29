@@ -77,5 +77,25 @@
       "tipo": " Eletrônico ",
       "id": 11
     }
+  ],
+  "deadline": [
+    {
+      "process": "0007052-98.2020.8.17.0001",
+      "situation": "Apelação apresentada 14 de junho. Aguardando julgamento no TJPE. ",
+      "id": 1,
+      "name": "Daniel Augusto e Jessé Miguel"
+    },
+    {
+      "process": "0000339-50.2020.8.17.0990",
+      "situation": "ANPP realizado. Aguardando homologação.",
+      "id": 2,
+      "name": "Romeu Andrade Valença"
+    },
+    {
+      "process": "0008397-02.2020.8.17.0001",
+      "situation": "Alegações finais apresentadas. Aguardando Sentença. ",
+      "id": 3,
+      "name": "José Macleiton dos Santos"
+    }
   ]
 }

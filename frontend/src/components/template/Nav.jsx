@@ -12,5 +12,8 @@ export default props =>
             <Link to="/users">
                 <i className="fa fa-book"></i> Processos
             </Link>
+            <Link to="/deadline">
+                <i className="fa fa-clock-o"></i> Prazos
+            </Link>
         </nav>
     </aside>
