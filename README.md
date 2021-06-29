@@ -1,5 +1,5 @@
 # Cadastro de processsos 
-### Desenvolvido por mim, com o objetivo de cadastar meu processos jurídicos e clientes. Foi utilizado react para o frontend e json server para o backend. 
+### Desenvolvido por mim, com o objetivo de cadastar meu processos jurídicos ativos e clientes. Ainda criei um componente prazos para acompanhar a situação processual e verificar se tem prazos correndo ou não. Foi utilizado react para o frontend e json server para o backend. 
 
 
 
